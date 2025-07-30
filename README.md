@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Aprendiz`**
 
-Me chamo Wallisson Henrique, tenho 16 anos e sou natural da Bahia. Estou cursando o ensino médio no Instituto Federal Baiano, com o curso técnico em informática. Atualmente, criando uma base solida em algumas linguagens de programação e de marcação.".
+Me chamo Wallisson Henrique, tenho 16 anos e sou natural da Bahia. Estou cursando o ensino médio no Instituto Federal Baiano, com o curso técnico em informática. Atualmente, criando uma base solida em algumas linguagens de programação e de marcação.
 
 <p align="left">
     <a href="https://www.instagram.com/wallisson_wh/">
